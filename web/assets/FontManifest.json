@@ -1,0 +1,22 @@
+[
+  {
+    "family": "IranSans",
+    "fonts": [
+      {
+        "asset": "fonts/IRANSansMobile_Bold.ttf"
+      },
+      {
+        "asset": "fonts/IRANSansMobile_Medium.ttf",
+        "weight": 300
+      }
+    ]
+  },
+  {
+    "family": "Far",
+    "fonts": [
+      {
+        "asset": "fonts/Far_ZarBd.ttf"
+      }
+    ]
+  }
+]
